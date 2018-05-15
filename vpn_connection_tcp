@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /etc/openvpn/ovpn_tcp;
+sudo openvpn ca99.nordvpn.com.tcp.ovpn;

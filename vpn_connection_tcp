@@ -1,4 +1,5 @@
 #!/bin/bash
 
+echo "connecting TCP Canada to server 99";
 cd /etc/openvpn/ovpn_tcp;
 sudo openvpn ca99.nordvpn.com.tcp.ovpn;

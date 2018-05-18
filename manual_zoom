@@ -1,0 +1,11 @@
+!#/bin/bash
+
+echo "getting display information";
+gsettings get com.ubuntu.user-interface scale-factor;
+
+echo "set display settings to default";
+echo "gsettings set com.ubuntu.user-interface scale-factor "{'HDMI-1';
+
+gsettings set com.ubuntu.user-interface scale-factor "{'HDMI-1': 5}";
+
+

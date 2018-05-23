@@ -1,0 +1,12 @@
+
+#!/bin/bash
+
+echo "Connecting UDP";
+
+cd /etc/openvpn/ovpn_udp;
+
+
+sudo openvpn us957.nordvpn.com.udp.ovpn;
+
+
+

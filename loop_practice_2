@@ -1,0 +1,3 @@
+read -p "Enter file you'd like to search for: " filename;
+
+echo "$filename hello "

@@ -1,0 +1,6 @@
+!#/bin/bash
+
+echo "Restarting network manager to enable wifi";
+
+sudo service network-manager restart;
+

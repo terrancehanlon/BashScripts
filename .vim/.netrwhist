@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/ghost/Documents/MediSim/core/entities'
+let g:netrw_dirhist_8='/home/ghost/Documents/MediSim/core'
+let g:netrw_dirhist_7='/home/ghost/Documents/MediSim/core/utils'
+let g:netrw_dirhist_6='/home/ghost/Documents/MediSim/core'
+let g:netrw_dirhist_5='/home/ghost/Documents/MediSim'
+let g:netrw_dirhist_4='/home/ghost/Documents/MediSim/core/game_files'
+let g:netrw_dirhist_3='/home/ghost/Documents/MediSim/core'
+let g:netrw_dirhist_2='/home/ghost/Documents/MediSim/core/game_files'
+let g:netrw_dirhist_1='/home/ghost/Documents/MediSim/core'
+let g:netrw_dirhist_0='/home/ghost/Documents/MediSim'
